@@ -1,0 +1,45 @@
+@font-face {
+  font-family: Croc;
+  font-style: normal;
+  font-weight: 700;
+  src: 
+    url(../../vendor/fonts/CoFoWeather20240219-NormalBold.woff),
+    url(../../vendor/fonts/CoFoWeather20240219-NormalBold.woff2);
+}
+
+@font-face {
+  font-family: Croc;
+  font-style: normal;
+  font-weight: 400;
+  src: 
+    url(../../vendor/fonts/CoFoWeather20240219-NormalRegular.woff),
+    url(../../vendor/fonts/CoFoWeather20240219-NormalRegular.woff2);
+}
+
+.employeeForm {
+  position: absolute;
+  top: 100px;
+  right: 50px;
+  width: 800px;
+  height: auto;
+  background-color: white;
+  border-radius: 15px;
+  box-shadow: -5px 10px 8px -6px rgba(34, 60, 80, 0.2);
+  display: flex;
+  flex-direction: column;
+  padding: 25px;
+}
+
+.employeeForm__title {
+  margin: 0;
+  padding: 0;
+  color: #4D5778;
+  font-family: Croc;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 24px;
+}
+
+.employeeForm__title_active {
+  text-align: center;
+}

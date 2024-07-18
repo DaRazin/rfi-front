@@ -1,0 +1,36 @@
+@font-face {
+  font-family: Croc;
+  font-style: normal;
+  font-weight: 400;
+  src: 
+    url(../vendor/fonts/CoFoWeather20240219-NormalRegular.woff),
+    url(../vendor/fonts/CoFoWeather20240219-NormalRegular.woff2);
+}
+
+@font-face {
+  font-family: Croc;
+  font-style: normal;
+  font-weight: 500;
+  src: 
+    url(../vendor/fonts/CoFoWeather20240219-NormalMedium.woff),
+    url(../vendor/fonts/CoFoWeather20240219-NormalMedium.woff2);
+}
+
+@font-face {
+  font-family: Croc;
+  font-style: normal;
+  font-weight: 700;
+  src: 
+    url(../vendor/fonts/CoFoWeather20240219-NormalBold.woff),
+    url(../vendor/fonts/CoFoWeather20240219-NormalBold.woff2);
+}
+
+@font-face {
+  font-family: Croc;
+  font-style: normal;
+  font-weight: 100;
+  src: 
+    url(../vendor/fonts/CoFoWeather20240219-CondensedLight.woff),
+    url(../vendor/fonts/CoFoWeather20240219-CondensedLight.woff2);
+}
+
